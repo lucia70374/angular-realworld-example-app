@@ -1,0 +1,69 @@
+{
+  "articles": [{
+    "slug": "Welcome-to-RealWorld-project-1",
+    "title": "Welcome to RealWorld project",
+    "description": "Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+    "body": "See how the exact same Medium.com clone (called Conduit) is built using different frontends and backends. Yes, you can mix and match them, because they all adhere to the same API spec",
+    "tagList": [
+      "welcome",
+      "introduction"
+    ],
+    "createdAt": "2021-11-24T12:11:07.557Z",
+    "updatedAt": "2021-11-24T12:11:07.557Z",
+    "favorited": true,
+    "favoritesCount": 779,
+    "author": {
+      "username": "Gerome",
+      "bio": null,
+      "image": "https://api.realworld.io/images/demo-avatar.png",
+      "following": false
+    },
+    "comments": [{
+        "id": 1,
+        "createdAt": "2021-11-24T12:11:07.696Z",
+        "updatedAt": "2021-11-24T12:11:07.696Z",
+        "body": "While most \"todo\" demos provide an excellent cursory glance at a framework's capabilities, they typically don't convey the knowledge & perspective required to actually build real applications with it.",
+        "author": {
+          "username": "tanja vas",
+          "bio": null,
+          "image": "https://api.realworld.io/images/demo-avatar.png",
+          "following": false
+        }
+    }]
+  },
+  {
+    "slug": "tanja-v-slug",
+    "title": "Welcome to Cypress",
+    "description": "Cypress is the best",
+    "body": "Learn Cypress now!!!",
+    "tagList": [
+      "welcome",
+      "introduction"
+    ],
+    "createdAt": "2021-11-24T12:11:07.557Z",
+    "updatedAt": "2021-11-24T12:11:07.557Z",
+    "favorited": true,
+    "favoritesCount": 779,
+    "author": {
+      "username": "Gerome",
+      "bio": null,
+      "image": "https://api.realworld.io/images/demo-avatar.png",
+      "following": false
+    },
+    "comments": [{
+        "id": 2,
+        "createdAt": "2021-11-24T12:11:07.696Z",
+        "updatedAt": "2021-11-24T12:11:07.696Z",
+        "body": "tanja vasovic test",
+        "author": {
+          "username": "tanja vas",
+          "bio": null,
+          "image": "https://api.realworld.io/images/demo-avatar.png",
+          "following": false
+        }
+    }]
+
+  }],
+  "articlesCount":2
+  
+}
